@@ -2,7 +2,7 @@
 
 import { Footer } from 'flowbite-react';
 
-export default function CustomFooter() {
+export default function TechieventFooter() {
   return (
     <Footer container>
       <div className="w-full text-center fixed right-0 left-0 bottom-0 z-20 h-18 sm:h-12 w-full p-4 shadow md:flex md:items-center md:justify-between md:p-6">

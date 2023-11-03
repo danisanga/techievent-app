@@ -1,4 +1,7 @@
-export default function Home() {
+import TechieventButton from "../components/TechieventButton";
+
+/* TODO - DSG - Move this content to homepage... */
+export default function Events() {
   return (
     <main>
       <div className="min-h-screen flex flex-col justify-around items-center text-white">
@@ -13,17 +16,14 @@ export default function Home() {
         
         <div className="w-full text-justify mx-auto max-w-2xl flex-shrink-0">
           <p className="text-center text-md sm:text-xl font-medium mb-8 antialiased leading-relaxed">
-            Discover tech events happening right around your corner.
-            <br />
-            Set up reminders so you never miss a beat.
-            <br />
-            Network and swing open doors for your future!
+            Discover tech events happening right around your corner!
           </p>
         </div>
 
-        <div className="w-auto pb-12 text-3xl font-semibold antialiased">
-          Coming Soon!
+        <div>
+          <TechieventButton />
         </div>
+
       </div>
     </main>
   )
