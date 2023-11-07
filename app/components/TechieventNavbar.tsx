@@ -5,7 +5,7 @@ import { Navbar } from 'flowbite-react';
 
 export default function TechieventNavbar() {
   return (
-    <Navbar className='fixed w-screen bg-pink-600 border-b-4 border-pink-700' fluid rounded>
+    <Navbar className='sticky border-pink-700 top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60' fluid rounded>
       <Navbar.Brand as={Link} href="https://techievent.io">
         {/* <img src="../../public/techievent.svg" className="mr-3 h-6 sm:h-9" alt="techievent.io" /> */}
         <span className="text-xl font-semibold text-red-50">techievent.io</span>

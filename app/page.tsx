@@ -24,6 +24,67 @@ export default function Home() {
         <div className="w-auto pb-12 text-3xl font-semibold antialiased">
           Coming Soon!
         </div>
+
+        <div className="w-full text-justify mx-auto max-w-2xl flex-shrink-0">
+          <p className="text-center text-md sm:text-xl font-medium mb-8 antialiased leading-relaxed">
+            Discover tech events happening right around your corner.
+            <br />
+            Set up reminders so you never miss a beat.
+            <br />
+            Network and swing open doors for your future!
+          </p>
+        </div>
+
+        <div className="w-full text-justify mx-auto max-w-2xl flex-shrink-0">
+          <p className="text-center text-md sm:text-xl font-medium mb-8 antialiased leading-relaxed">
+            Discover tech events happening right around your corner.
+            <br />
+            Set up reminders so you never miss a beat.
+            <br />
+            Network and swing open doors for your future!
+          </p>
+        </div>
+
+        <div className="w-full text-justify mx-auto max-w-2xl flex-shrink-0">
+          <p className="text-center text-md sm:text-xl font-medium mb-8 antialiased leading-relaxed">
+            Discover tech events happening right around your corner.
+            <br />
+            Set up reminders so you never miss a beat.
+            <br />
+            Network and swing open doors for your future!
+          </p>
+        </div>
+
+
+        <div className="w-full text-justify mx-auto max-w-2xl flex-shrink-0">
+          <p className="text-center text-md sm:text-xl font-medium mb-8 antialiased leading-relaxed">
+            Discover tech events happening right around your corner.
+            <br />
+            Set up reminders so you never miss a beat.
+            <br />
+            Network and swing open doors for your future!
+          </p>
+        </div>
+
+        <div className="w-full text-justify mx-auto max-w-2xl flex-shrink-0">
+          <p className="text-center text-md sm:text-xl font-medium mb-8 antialiased leading-relaxed">
+            Discover tech events happening right around your corner.
+            <br />
+            Set up reminders so you never miss a beat.
+            <br />
+            Network and swing open doors for your future!
+          </p>
+        </div>
+
+        <div className="w-full text-justify mx-auto max-w-2xl flex-shrink-0">
+          <p className="text-center text-md sm:text-xl font-medium mb-8 antialiased leading-relaxed">
+            Discover tech events happening right around your corner.
+            <br />
+            Set up reminders so you never miss a beat.
+            <br />
+            Network and swing open doors for your future!
+          </p>
+        </div>
       </div>
     </main>
   )
